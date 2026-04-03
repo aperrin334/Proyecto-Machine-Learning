@@ -1,0 +1,16 @@
+Apprendre a Pull et Push !
+Contacter les erasmus
+
+PCA :
+    - Rajouter quatrième composante princ
+    - Analyses
+Regression Linéaire :
+    - row_0 ??
+    - Comprendre :pouce
+    - le recopier en R
+
+Faire la même pour Cholesterol
+
+Nouveau :
+    - SVM/SVR et arbre optimal : Chloé
+    - Foret + Boosting : Alicia
