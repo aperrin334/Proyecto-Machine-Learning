@@ -1,6 +1,3 @@
-Apprendre a Pull et Push !
-Contacter les erasmus
-
 PCA :
     - Rajouter quatrième composante princ
     - Analyses
