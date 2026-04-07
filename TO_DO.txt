@@ -1,13 +1,26 @@
 PCA :
-    - Rajouter quatrième composante princ
     - Analyses
 Regression Linéaire :
     - row_0 ??
     - Comprendre :pouce
     - le recopier en R
 
-Faire la même pour Cholesterol
+Faire la même pour Cholesterol et en R
 
 Nouveau :
     - SVM/SVR et arbre optimal : Chloé
-    - Foret + Boosting : Alicia
+    - Boosting : Alicia
+    - Neural network : Carmen
+
+Linear Regg             Python :    Heart_Disease_Risk  almost done        Cholesterol_LDL
+                        R :         Heart_Disease_Risk                     Cholesterol_LDL
+SVM/SVR                 Python :    Heart_Disease_Risk                     Cholesterol_LDL
+                        R :         Heart_Disease_Risk                     Cholesterol_LDL
+Optimal Tree            Python :    Heart_Disease_Risk                     Cholesterol_LDL
+                        R :         Heart_Disease_Risk                     Cholesterol_LDL
+Forest                  Python :    Heart_Disease_Risk  done               Cholesterol_LDL  done
+                        R :         Heart_Disease_Risk  done               Cholesterol_LDL  done
+Boosting                Python :    Heart_Disease_Risk                     Cholesterol_LDL
+                        R :         Heart_Disease_Risk                     Cholesterol_LDL
+Neural network          Python :    Heart_Disease_Risk  almost done        Cholesterol_LDL
+                        R :         Heart_Disease_Risk                     Cholesterol_LDL
