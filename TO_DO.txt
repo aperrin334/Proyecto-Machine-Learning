@@ -1,5 +1,3 @@
-PCA :
-    - Analyses
 Regression Linéaire :
     - row_0 ??
     - Comprendre :pouce
@@ -8,9 +6,10 @@ Regression Linéaire :
 Faire la même pour Cholesterol et en R
 
 Nouveau :
-    - SVM/SVR et arbre optimal : Chloé
+    - SVM/SVR : Chloé
     - Boosting : Alicia
     - Neural network : Carmen
+    - Optimal Tree : Léo ??
 
 Linear Regg             Python :    Heart_Disease_Risk  almost done        Cholesterol_LDL
                         R :         Heart_Disease_Risk                     Cholesterol_LDL
