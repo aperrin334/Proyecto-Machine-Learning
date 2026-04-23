@@ -7,9 +7,9 @@ Faire la même pour Cholesterol et en R
 
 Nouveau :
     - SVM/SVR : Chloé
-    - Boosting : Alicia
     - Neural network : Carmen
-    - Optimal Tree : Léo ??
+    - Optimal Tree : Léo
+    - ROC curve and comparaison : SOMEONE CAN PLLLLEEEAASE TAKE THIS PART
 
 Linear Regg             Python :    Heart_Disease_Risk  almost done        Cholesterol_LDL
                         R :         Heart_Disease_Risk                     Cholesterol_LDL
@@ -20,6 +20,8 @@ Optimal Tree            Python :    Heart_Disease_Risk                     Chole
 Forest                  Python :    Heart_Disease_Risk  done               Cholesterol_LDL  done
                         R :         Heart_Disease_Risk  done               Cholesterol_LDL  done
 Boosting                Python :    Heart_Disease_Risk                     Cholesterol_LDL
-                        R :         Heart_Disease_Risk                     Cholesterol_LDL
+                        R :         Heart_Disease_Risk  done               Cholesterol_LDL  done
 Neural network          Python :    Heart_Disease_Risk  almost done        Cholesterol_LDL
                         R :         Heart_Disease_Risk                     Cholesterol_LDL
+
+ROC curve and conclusion
