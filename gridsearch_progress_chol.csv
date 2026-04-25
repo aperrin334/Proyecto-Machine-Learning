@@ -1,0 +1,2 @@
+params,accuracy,error
+"{'C': 0.1, 'epsilon': 0.01, 'kernel': 'linear'}",-100.51162270576893,101.51162270576893
